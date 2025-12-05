@@ -241,7 +241,7 @@ export default function HomeScreen() {
             className="text-white/70 hover:text-white hover:underline font-medium transition-colors duration-200"
           > */}
             K. Vardhan
-          </a>
+          {/* </a> */}
         </p>
       </footer>
     </div>
