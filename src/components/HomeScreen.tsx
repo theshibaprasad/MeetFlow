@@ -234,13 +234,13 @@ export default function HomeScreen() {
       <footer className="bg-white/5 backdrop-blur-xl border-t border-white/10 px-10 py-5 text-center relative z-50">
         <p className="text-white/70 text-sm flex items-center justify-center gap-2">
           Made with <span className="text-red-500 text-base animate-pulse">❤️</span> by{' '}
-          <a 
+          {/* <a 
             href="https://www.linkedin.com/in/theshibaprasad/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-white/70 hover:text-white hover:underline font-medium transition-colors duration-200"
-          >
-            Shiba Prasad
+          > */}
+            K. Vardhan
           </a>
         </p>
       </footer>
